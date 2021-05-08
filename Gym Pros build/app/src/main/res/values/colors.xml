@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFF841F</color>
+    <color name="colorPrimaryDark">#D64B09</color>
+    <color name="colorAccent"> #D81B60</color>
+    <color name="CounterOver">#FF0000</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="background_ui">#f2f2f2</color>
+</resources>

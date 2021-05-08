@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">GymProject</string>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="reg_btn">Create a new account</string>
+    <string name="mail_txt">Enter your mail</string>
+    <string name="login_btn">Login</string>
+    <string name="or_text">OR</string>
+    <string name="login_text">Log in</string>
+    <string name="member_text">Already a member?</string>
+    <string name="click_here_btn">Click here</string>
+    <string name="reg_text">Register</string>
+    <string name="pas_txt">Enter your password</string>
+    <string name="first_name">Enter your first name</string>
+    <string name="last_name">Enter your last name</string>
+    <string name="repeat_pass">Repeat your password</string>
+    <string name="forgot_pass">Forgot password?</string>
+    <string name="new_member">New member?</string>
+    <string name="my_details_text">My details</string>
+    <string name="age_text">Enter your age</string>
+    <string name="height_text">Enter your height</string>
+    <string name="gender_text">Select your gender</string>
+    <string name="weight_text">Enter your weight</string>
+    <string name="finish_btn">Finish</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="body_fat">Enter percent body fat</string>
+    <string name="pass_recover_text">Password recover</string>
+    <string name="recover_my_pass_btn">Recover my password</string>
+    <string name="facebook_app_id">174059530511142</string>
+    <string name="login_fb_btn">Login</string>
+    <string name="exe_top">Choose exercise</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="profile_email">Email</string>
+    <string name="fb_login_protocol_scheme">fb174059530511142</string>
+    <string name="my_progress">My progress</string>
+    <string name="my_weight">"My current weight is: "</string>
+    <string name="creating_fat_percentages">Creating fat percentages</string>
+    <string name="neck_circumference">Enter neck circumference</string>
+    <string name="extent_of_waist">Enter extent of waist</string>
+    <string name="main_menu_header">Main menu</string>
+    <string name="successful_register">The register succssesfulled</string>
+    <string name="my_workout">My Workout</string>
+    <string name="weekly_activates">Weekly Activates</string>
+    <string name="update_details">Update Details</string>
+    <string name="preferences">Preferences</string>
+    <string name="register_failed">The register failed! this email is already exists. try again</string>
+    <string name="user_name_and_pass_wrong">Wrong user name or password</string>
+    <string name="email_required">Email required</string>
+    <string name="password_length">Password should be at least 6 characters long</string>
+    <string name="valid_email">Enter a valid email</string>
+    <string name="pass_not_match">The passwords not match! try agai</string>
+    <string name="first_name_required">First name required</string>
+    <string name="last_name_required">Last name required</string>
+    <string name="details_save">Your details has been saved</string>
+    <string name="password_recovery">New password sent to your email</string>
+    <string name="string_length">Please insert less characters</string>
+    <string name="height_rquiered">Height required</string>
+    <string name="weight_rquiered">Weight requierd</string>
+    <string name="age_requiered">Age required</string>
+    <string name="fat_percent_rquierd">Fat percent requierd</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="Weight">Weight</string>
+    <string name="enter_workout_name">Enter Workout Name</string>
+    <string name="add_new_workout">Add new workout:</string>
+    <string name="select_image">Select image:</string>
+    <string name="add">Add</string>
+    <string name="logoff_btn">Logoff</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="weight">Weight:</string>
+    <string name="sets">Sets:</string>
+    <string name="reps">Reps:</string>
+    <string name="kg">KG</string>
+    <string name="age">Age</string>
+    <string name="height">Height</string>
+    <string name="percent_body_fat">percent Body Fat</string>
+    <string name="breeding_dumbbells_lying">Breeding dumbbells lying</string>
+    <string name="climbs_the_trunk">Climbs the trunk</string>
+    <string name="dumbbell_bench_press">Dumbbell bench press</string>
+    <string name="concentrated_bending_arms">Concentrated bending arms</string>
+    <string name="curl_with_a_dumbbell">Curl with a dumbbell</string>
+    <string name="curls_on_the_bench">Curls on the bench</string>
+    <string name="dips">Dips</string>
+    <string name="bent_over_dumbbell_rows">Bent-over dumbbell rows</string>
+    <string name="lat_pulldowens">Lat Pulldowens</string>
+    <string name="lat_pulldowens_block_the_neck">lat pulldowens block the neck</string>
+    <string name="extension_arms_with_a_dumbbell">Extension arms with a dumbbell</string>
+    <string name="tricep_push_down">Tricep push down</string>
+    <string name="flexion_simulator_leg">Flexion simulator leg</string>
+    <string name="bicep_free">Bicep free</string>
+    <string name="leg_extension">Leg extension</string>
+    <string name="lunges_with_dumbbells">Lunges with dumbbells</string>
+    <string name="middle_cable_fly">Middle cable fly</string>
+    <string name="bench_press">Bench press</string>
+    <string name="pull_ups">Pull ups</string>
+    <string name="pull_on_deltoids">Pull on deltoids</string>
+    <string name="reduction_of_arms">Reduction of arms</string>
+    <string name="run">Run</string>
+    <string name="seated_chests">Seated chests</string>
+    <string name="standing_calf_raises">Standing calf raises</string>
+    <string name="straightening_simulator_wheel">Straightening simulator wheel</string>
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Hebrew</item>
+    </string-array>
+
+    <string-array name="Weight">
+        <item>kg</item>
+        <item>lb</item>
+    </string-array>
+    <string name="my_workouts">My Workouts</string>
+    <string name="workout_name">Workout Name</string>
+    <string name="zumba_event">Zumba</string>
+    <string name="aerobic_event">aerobic</string>
+    <string name="yoga_event">yoga</string>
+    <string name="pilates_event">pilates</string>
+    <string name="sculpting_event">sculpting</string>
+    <string name="HIT_event">HIT</string>
+    <string name="workout_station_event">workout station</string>
+    <string name="kick_box_event">kick box</string>
+    <string name="TRX_event">TRX</string>
+    <string name="no_activity_event">No Activity</string>
+
+    <string name="unit_label" translatable="false">Units</string>
+    <string name="gender_label" translatable="false">Gender</string>
+    <string name="age_label" translatable="false">Age</string>
+    <string name="height_label" translatable="false">Height</string>
+    <string name="weight_label" translatable="false">Weight</string>
+    <string name="activity_label" translatable="false">Activity</string>
+    <string name="reset_label" translatable="false">Clear screen</string>
+    <string name="calculate_label" translatable="false">Calculate</string>
+    <string name="history_label" translatable="false">View History</string>
+    <string-array name="units_array">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="activity_array">
+        <item>Sedentary</item>
+        <item>Lightly active</item>
+        <item>Moderately active</item>
+        <item>Very active</item>
+        <item>Extremely active</item>
+    </string-array>
+    <string name="title_activity_results" translatable="false">Results</string>
+    <string name="bmr_label" translatable="false">BMR</string>
+    <string name="tdee_label" translatable="false">TDEE</string>
+    <string name="bmi_label" translatable="false">BMI</string>
+    <string name="log_label" translatable="false">Save result</string>
+    <string name="action_about" translatable="false">Help</string>
+    <string name="action_profile" translatable="false">Edit Profile</string>
+    <string name="title_activity_about_me" translatable="false">Help</string>
+    <string name="aboutApp" translatable="false"><b><u>What is TDEE?</u></b>
+        \nTDEE, total daily energy expenditure,
+        is the amount of energy in calories you burn per day.
+        TDEE is best calculated by factoring in your BMR, or basal metabolic rate, and your activity level.
+        \n\n<b><u>What is BMR?</u></b>
+        \nBMR is the amount of calories you would burn per day at rest, in other words eating less than this value could be dangerous.
+        \n\n<b><u>What is BMI?</u></b>
+        \nBody Mass Index (BMI) is a relationship between weight and height, which is used to categorize a person as underweight, normal weight, overweight.
+        \n\n<b><u>What do the activity level mean?</u></b>
+        \n<b>Sedentary</b> = Little or no Exercise/ desk job
+        \n<b>Lightly Active</b> = Light exercise/ sports 1 – 3 days/ week
+        \n<b>Moderately Active</b> = Moderate Exercise, sports 3 – 5 days/ week
+        \n<b>Very Active</b> = Heavy Exercise/ sports 6 – 7 days/ week
+        \n<b>Extremely Active</b> = Very heavy exercise/ physical job/ training 2 x/ day
+    </string>
+    <string name="view_code" translatable="false">View source code</string>
+    <string name="tooMuch" translatable="false">Made with &#x2764; on planet Earth</string>
+    <string name="title_activity_history" translatable="false">History</string>
+    <string name="bmi_status" translatable="false">You are</string>
+    <string name="tryingTo_label" translatable="false">Trying to</string>
+    <string-array name="tryingTo_array">
+        <item>Loose weight</item>
+        <item>Gain weight</item>
+        <item>Maintain weight</item>
+    </string-array>
+    <string name="tryingToMsg" translatable="false">PlaceHolder</string>
+    <string name="date_label" translatable="false">Date</string>
+    <string name="intake_label" translatable="false">Calories</string>
+    <string name="action_delete_history" translatable="false">Delete history</string>
+    <string name="action_export_history" translatable="false">Export history</string>
+    <string name="user_label" translatable="false">User</string>
+    <string name="update_button_label" translatable="false">Update Profile</string>
+    <string name="activity_profile_title" translatable="false">Edit Profile</string>
+    <string name="profile_fileName" translatable="false">com.cyberw01f.kalc.profile_data</string>
+    <string name="unit_pref" translatable="false">unitPrefKey</string>
+    <string name="gender_pref" translatable="false">genderPrefKey</string>
+    <string name="age_pref" translatable="false">agePrefKey</string>
+    <string name="height_pref" translatable="false">heightPrefKey</string>
+    <string name="weight_pref" translatable="false">weightPrefKey</string>
+    <string name="load_button_label" translatable="false">Load Profile</string>
+
+</resources>
